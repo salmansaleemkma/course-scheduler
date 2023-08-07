@@ -22,7 +22,7 @@ $ npm test
 Start using the CLI app by running the main script.
 
 ```
-$ node geektrust.js
+$ node geektrust.js <PATH_TO_COMMANDS_TXT_FILE>
 ```
 
 ## CLI Usage
