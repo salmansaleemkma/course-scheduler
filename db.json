@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {
+      "id": "OFFERING-DATASCIENCE-BOB",
+      "name": "Datascience",
+      "instructor": "Bob",
+      "date": "05062022",
+      "minEmployees": 1,
+      "maxEmployees": 3,
+      "registrations": []
+    }
+  ]
+}

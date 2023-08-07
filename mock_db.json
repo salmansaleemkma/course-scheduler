@@ -1,0 +1,22 @@
+{
+  "courses": [
+    {
+      "id": "OFFERING-DATA-SCIENCE-DR-JACOB-SHWOLTZ",
+      "name": "Data Science",
+      "instructor": "Dr Jacob Shwoltz",
+      "date": "29072023",
+      "minEmployees": 2,
+      "maxEmployees": 4,
+      "registrations": [
+        {
+          "id": "REG-COURSE-JAMES-HOLT-DATA-SCIENCE",
+          "employeeName": "James Holt",
+          "employeeEmail": "james-holt@gmail.com",
+          "courseId": "OFFERING-DATA-SCIENCE-DR-JACOB-SHWOLTZ",
+          "status": "CANCEL_REJECTED",
+          "alloted": true
+        }
+      ]
+    }
+  ]
+}
