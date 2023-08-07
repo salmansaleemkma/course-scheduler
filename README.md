@@ -63,16 +63,22 @@ $ ALLOT <courseID>
 
 Example:
 
+```
 $ ALLOT OFFERING-DATA-SCIENCE-DR-JACOB-SHWOLTZ
-Canceling a Registration
+```
+
+### Canceling a Registration
 To cancel a registration for a course, use the following command:
 
+```
 $ CANCEL <registrationID>
+```
+
 Example:
 
+```
 $ CANCEL REG-COURSE-JAMES-HOLT-DATA-SCIENCE
+```
 
-Contact
+## Contact
 For any questions or issues, feel free to contact us at salman.saleemkma@email.com.
-
-Please note that the provided CLI commands and descriptions are based on the inputs you provided. If your CLI app has more commands or different functionalities, you can update the README accordingly to reflect the actual usage and features of the app.
